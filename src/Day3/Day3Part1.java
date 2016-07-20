@@ -32,8 +32,7 @@ public class Day3Part1 {
         int a = 0;
         int x=2000;
         int y=2000;
-        int b=2000;
-        int c=2000;
+        
         for(int i = 0;i<direc.size();i++) {
 
             if (direc.get(i).equals(">")) {
